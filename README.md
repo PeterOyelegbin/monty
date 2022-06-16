@@ -17,7 +17,7 @@ ALX - Simple Unix Like Shell
 
 - clone the repository
 
-    https://github.com/Sertsev/monty
+    https://github.com/PeterOyelegbin/monty
 
 - compile with
 
@@ -84,5 +84,5 @@ The work is still in progress, and a lot of things like aliases and piping, redi
 
 ## Authors
 
-* [**Sertsedengle Shewandagn**](https://github.com/sertsev)
+* [**Peter Oyelegbin**](https://github.com/PeterOyelegbin)
 
